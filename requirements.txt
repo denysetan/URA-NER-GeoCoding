@@ -1,0 +1,6 @@
+streamlit==0.79.0
+requests==2.25.1
+spacy_streamlit==1.0.0
+folium==0.12.1
+spacy==3.0.5
+streamlit_folium==0.3.0
